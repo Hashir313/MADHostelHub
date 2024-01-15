@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971053813540",
+    "project_id": "mad-hostel-hub",
+    "storage_bucket": "mad-hostel-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971053813540:android:827f7020cf1cd041c72db1",
+        "android_client_info": {
+          "package_name": "com.example.hostel_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwN1tPsJkPfcMoczOmHcDGjLbv_q_q7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
